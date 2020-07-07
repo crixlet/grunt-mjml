@@ -1,26 +1,26 @@
 {
-  "name": "@danfraticiu/grunt-mjml",
+  "name": "@crixlet/grunt-mjml",
   "description": "Grunt integration for mjml, the email template engine",
   "version": "1.0.2",
-  "homepage": "https://github.com/danfraticiu/grunt-mjml",
+  "homepage": "https://github.com/crixlet/grunt-mjml",
   "author": {
-    "name": "danfraticiu",
-    "email": "fraticiudan@gmail.com"
+    "name": "crixlet",
+    "email": "aaronhanson@hey.com"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/danfraticiu"
+    "registry": "https://npm.pkg.github.com/crixlet"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/danfraticiu/grunt-mjml.git"
+    "url": "git://github.com/crixlet/grunt-mjml.git"
   },
   "bugs": {
-    "url": "https://github.com/danfraticiu/grunt-mjml/issues"
+    "url": "https://github.com/crixlet/grunt-mjml/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/danfraticiu/grunt-mjml/blob/master/LICENSE-MIT"
+      "url": "https://github.com/crixlet/grunt-mjml/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
@@ -34,7 +34,7 @@
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-nodeunit": "^1.0.0",
     "grunt": "~1.0.1",
-    "mjml": "4.x"
+    "mjml": "v4.7.0-beta.x"
   },
   "keywords": [
     "gruntplugin",
